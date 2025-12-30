@@ -1,240 +1,125 @@
-# Hey there, I'm Rudra Prajapati 👋
+<h1 align="center">👋 Hi, I’m Rudra Prajapati</h1>
 
-<div align="center">
-  
-### Full-Stack Developer | Rust & Web3 Engineer
-  
-**Building scalable backends, on-chain protocols, and decentralized trading systems**
+<p align="center">
+  <b>Full-Stack Developer | Rust & Web3 Engineer</b><br/>
+  Building <b>scalable backends</b>, <b>on-chain protocols</b>, and <b>decentralized trading systems</b>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudra-prajapati-12099128a/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/0xRudraSol)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rudraprajapati2612@gmail.com)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a developer who loves building **high-performance backend systems** and **Web3 infrastructure**. My sweet spot is working close to the protocol layer—creating **AMMs, order books, indexers, and on-chain programs**—then connecting them to clean, modern web interfaces.
-
-```rust
-fn current_focus() -> Vec<&'static str> {
-    vec![
-        "🦀 Rust backend services",
-        "⚡ Solana & Ethereum smart contracts", 
-        "📊 Trading infrastructure (AMMs, CLOBs, Prediction Markets)"
-    ]
-}
-```
-
-**What drives me:** The challenge of building systems that are fast, secure, and actually used in production. I care about **code quality, security audits, and shipping real products**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudra-prajapati-12099128a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/0xRudraSol" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:rudraprajapati2612@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🧠 About Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
+I focus on **high-performance backend systems** and **Web3 infrastructure**.  
+I enjoy working close to the protocol layer — building **AMMs, CLOBs, indexers, and on-chain programs** — and then connecting them to modern, clean web interfaces.
 
-### Backend & Systems
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Actix](https://img.shields.io/badge/Actix--web-000000?style=flat&logo=rust&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-**Databases & Tools**  
-PostgreSQL • MongoDB • Prisma • Docker
-
-</td>
-<td valign="top" width="50%">
-
-### Blockchain & Web3
-![Solana](https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-6B4FBB?style=flat)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-
-**Specializations**  
-AMMs • CLOBs • LP Tokens • PDAs • CPIs • Indexers
-
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="2">
-
-### Frontend & Full-Stack
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat)
-
-</td>
-</tr>
-</table>
+**Currently exploring the intersection of:**
+- ⚙️ Rust backend systems  
+- 🔗 Solana & Ethereum smart contracts  
+- 📊 Trading infrastructure (AMMs, Order Books, Prediction Markets)
 
 ---
 
-## 💼 What I Build
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+### 💻 Backend & Full-Stack
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Actix--web-000000?logo=rust&logoColor=white"/>
+</p>
 
-### 🔗 Blockchain Infrastructure
-- **Automated Market Makers (AMMs)**  
-  Constant product curves, LP tokens, liquidity vaults
-  
-- **Central Limit Order Books (CLOBs)**  
-  High-performance matching engines in Rust
-  
-- **Prediction Markets**  
-  Polymarket-style binary outcome protocols
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
+</p>
 
-</td>
-<td width="50%">
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/>
+</p>
 
-### ⚙️ Backend Systems
-- **Trading Infrastructure**  
-  Order matching, settlement engines, real-time data feeds
-  
-- **Indexers & APIs**  
-  On-chain data aggregation and historical queries
-  
-- **Full-Stack dApps**  
-  End-to-end Web3 applications with modern UX
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+### 🔗 Web3
+<p>
+  <img src="https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anchor-000000?logo=anchor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?logo=ethereum&logoColor=white"/>
+</p>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏦 [Solana AMM](https://github.com/Rudraprajapati2612/amm-Solana)
-**Automated Market Maker on Solana**
-
-A production-ready AMM implementation featuring:
-- ✅ Constant product formula (x * y = k)
-- ✅ LP token minting and burning
-- ✅ Liquidity vaults and fee distribution
-- ✅ Built with Anchor framework
-
-**Tech:** Rust, Anchor, Solana, TypeScript
-
-</td>
-<td width="50%">
-
-### 📊 [Central Limit Order Book](https://github.com/Rudraprajapati2612/Central-limit-OrderBook-rust)
-**High-Performance Matching Engine**
-
-Rust-based order book with:
-- ✅ Price-time priority matching
-- ✅ Limit and market orders
-- ✅ Real-time order management
-- ✅ Optimized data structures
-
-**Tech:** Rust, Trading Systems
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 [Staking Contract (Anchor)](https://github.com/Rudraprajapati2612/Stacking-contract--Anchor)
-**Token Staking Protocol**
-
-Secure staking implementation with:
-- ✅ Time-locked staking rewards
-- ✅ Flexible reward distribution
-- ✅ Emergency withdrawal mechanisms
-
-**Tech:** Rust, Anchor, Solana
-
-</td>
-<td width="50%">
-
-### 🎯 [SGP-3](https://github.com/Rudraprajapati2612/SGP-3)
-**Web3 Protocol Implementation**
-
-Experimental protocol featuring:
-- ✅ Custom token mechanics
-- ✅ Advanced program interactions
-- ✅ TypeScript SDK
-
-**Tech:** TypeScript, Solana
-
-</td>
-</tr>
-</table>
-
-**[→ View All 25 Repositories](https://github.com/Rudraprajapati2612?tab=repositories)**
+<p>
+  <b>Concepts:</b> AMM • CLOB • LP Tokens • Vaults • Indexers • Matching Engines
+</p>
 
 ---
 
-## 📈 GitHub Activity
+## 🚀 What I Build
 
-<div align="center">
-
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudraprajapati2612&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraprajapati2612&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudraprajapati2612&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
+- ⚖️ **Automated Market Makers (AMMs)**
+- 📘 **Central Limit Order Books (CLOBs)**
+- 🔮 **Prediction Markets (Polymarket-style)**
+- 🧩 **On-chain Programs & Smart Contracts**
+- 🔁 **High-performance Rust matching engines**
+- 🌐 **Full-stack Web3 dApps**
 
 ---
 
-## 🎯 Currently Working On
+## 📌 Featured Projects
 
-```typescript
-const currentProjects = {
-  learning: ["Advanced Solana program architecture", "Rust async patterns"],
-  building: ["Prediction market infrastructure", "Trading analytics dashboard"],
-  exploring: ["Cross-chain bridges", "MEV strategies", "Zero-knowledge proofs"]
-};
-```
+### 🔹 Solana AMM
+Automated Market Maker with swaps, LP minting, and vaults  
+👉 https://github.com/Rudraprajapati2612/amm-Solana
 
-**Open to:**
-- 🤝 Collaboration on DeFi protocols or trading infrastructure
-- 💼 Full-time opportunities in Web3 or backend engineering
-- 🎓 Mentorship in Rust, Solana, or system design
+### 🔹 Central Limit Order Book (Rust)
+High-performance order matching engine  
+👉 https://github.com/Rudraprajapati2612/Central-limit-OrderBook-rust
 
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing **Web3 architecture, trading systems, or Rust engineering**.
-
-**Best ways to reach me:**
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 **LinkedIn** | [Connect with me](https://www.linkedin.com/in/rudra-prajapati-12099128a/) |
-| 🐦 **Twitter/X** | [@0xRudraSol](https://x.com/0xRudraSol) |
-| 📧 **Email** | [rudraprajapati2612@gmail.com](mailto:rudraprajapati2612@gmail.com) |
-| 💬 **Telegram** | Open to connecting |
-
-</div>
+### 🔹 Web3 & Backend Experiments
+Solana programs, backend services, and infra prototypes  
+👉 https://github.com/Rudraprajapati2612?tab=repositories
 
 ---
 
-<div align="center">
+## 📍 Currently Working On
 
-### ⭐ If you like what you see, feel free to star repositories and reach out!
+- 🧪 Advanced **Solana programs (Anchor)**
+- ⚙️ **Rust-based backend & matching engines**
+- 🔮 **Prediction market architecture**
+- 📈 **DeFi & trading infrastructure**
 
-**"Building the decentralized future, one commit at a time"**
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rudraprajapati2612&color=blueviolet&style=flat-square)
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudraprajapati2612&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+⭐️ <i>If you like systems, trading infra, or Web3 — feel free to explore my repositories and reach out.</i>
