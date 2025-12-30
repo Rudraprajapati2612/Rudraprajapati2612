@@ -6,9 +6,22 @@
   
 **Building scalable backends, on-chain protocols, and decentralized trading systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudra-prajapati-12099128a/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/0xRudraSol)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rudraprajapati2612@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudra-prajapati-12099128a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/0xRudraSol">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:rudraprajapati2612@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Rudraprajapati2612">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Rudraprajapati2612&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -22,8 +35,9 @@ I'm a developer who loves building **high-performance backend systems** and **We
 fn current_focus() -> Vec<&'static str> {
     vec![
         "🦀 Rust backend services",
-        "⚡ Solana & Ethereum smart contracts", 
-        "📊 Trading infrastructure (AMMs, CLOBs, Prediction Markets)"
+        "⚡ Solana smart contracts & DeFi protocols", 
+        "📊 Trading infrastructure (AMMs, CLOBs, Prediction Markets)",
+        "🐳 DevOps & Infrastructure automation"
     ]
 }
 ```
@@ -53,23 +67,23 @@ PostgreSQL • MongoDB • Prisma • Docker
 
 ### Blockchain & Web3
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-6B4FBB?style=flat)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 
 **Specializations**  
-AMMs • CLOBs • LP Tokens • PDAs • CPIs • Indexers
+AMMs • CLOBs • LP Tokens • PDAs • CPIs • Indexers • SPL Tokens
 
 </td>
 </tr>
 <tr>
 <td valign="top" colspan="2">
 
-### Frontend & Full-Stack
+### Frontend & DevOps
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </td>
 </tr>
@@ -161,15 +175,22 @@ Secure staking implementation with:
 </td>
 <td width="50%">
 
-### 🎯 [SGP-3](https://github.com/Rudraprajapati2612/SGP-3)
-**Web3 Protocol Implementation**
+### 🔄 [SwapLiT - DEX Platform](https://github.com/Rudraprajapati2612/SGP-3)
+**Decentralized Exchange with Advanced Features**
 
-Experimental protocol featuring:
-- ✅ Custom token mechanics
-- ✅ Advanced program interactions
-- ✅ TypeScript SDK
+Production-ready DEX featuring:
+- ✅ Multi-hop routing & pathfinding
+- ✅ Real-time blockchain indexing
+- ✅ Portfolio tracking & analytics
+- ✅ Gas-optimized swap execution
 
-**Tech:** TypeScript, Solana
+**Tech:** Node.js, TypeScript, PostgreSQL, Prisma, Solidity
+
+**Key Features:**
+- Graph-based routing algorithm (BFS)
+- Event-driven data synchronization
+- Trading analytics with slippage detection
+- RESTful APIs with type safety
 
 </td>
 </tr>
@@ -183,11 +204,14 @@ Experimental protocol featuring:
 
 <div align="center">
 
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudraprajapati2612&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<a href="https://github.com/Rudraprajapati2612">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudraprajapati2612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraprajapati2612&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraprajapati2612&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudraprajapati2612&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudraprajapati2612&theme=tokyonight&hide_border=true&background=0D1117)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudraprajapati2612&theme=tokyonight" alt="GitHub Contribution Graph"/>
 
 </div>
 
@@ -197,16 +221,16 @@ Experimental protocol featuring:
 
 ```typescript
 const currentProjects = {
-  learning: ["Advanced Solana program architecture", "Rust async patterns"],
-  building: ["Prediction market infrastructure", "Trading analytics dashboard"],
-  exploring: ["Cross-chain bridges", "MEV strategies", "Zero-knowledge proofs"]
+  learning: ["Advanced Solana program architecture", "Rust async patterns", "DevOps best practices"],
+  building: ["Prediction market infrastructure", "Trading analytics dashboard", "Solana DEX"],
+  exploring: ["MEV strategies", "Program-derived addresses", "Cross-program invocations"]
 };
 ```
 
 **Open to:**
 - 🤝 Collaboration on DeFi protocols or trading infrastructure
 - 💼 Full-time opportunities in Web3 or backend engineering
-- 🎓 Mentorship in Rust, Solana, or system design
+- 🎯 Freelance projects in Solana ecosystem
 
 ---
 
@@ -214,16 +238,40 @@ const currentProjects = {
 
 I'm always interested in discussing **Web3 architecture, trading systems, or Rust engineering**.
 
-**Best ways to reach me:**
-
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 **LinkedIn** | [Connect with me](https://www.linkedin.com/in/rudra-prajapati-12099128a/) |
-| 🐦 **Twitter/X** | [@0xRudraSol](https://x.com/0xRudraSol) |
-| 📧 **Email** | [rudraprajapati2612@gmail.com](mailto:rudraprajapati2612@gmail.com) |
-| 💬 **Telegram** | Open to connecting |
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/rudra-prajapati-12099128a/">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50px" alt="LinkedIn"/>
+<br/>
+<b>LinkedIn</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://x.com/0xRudraSol">
+<img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="50px" alt="Twitter"/>
+<br/>
+<b>Twitter/X</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:rudraprajapati2612@gmail.com">
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="50px" alt="Email"/>
+<br/>
+<b>Email</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/Rudraprajapati2612">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50px" alt="GitHub"/>
+<br/>
+<b>GitHub</b>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -233,8 +281,6 @@ I'm always interested in discussing **Web3 architecture, trading systems, or Rus
 
 ### ⭐ If you like what you see, feel free to star repositories and reach out!
 
-**"Building the decentralized future, one commit at a time"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rudraprajapati2612&color=blueviolet&style=flat-square)
+**"Building the decentralized future on Solana, one commit at a time"**
 
 </div>
