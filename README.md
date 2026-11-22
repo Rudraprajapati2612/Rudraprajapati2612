@@ -10,10 +10,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Rust+%7C+TypeScript+%7C+Solana+DeFi+Infrastructure;Real-time+on-chain+security+%26+exploit+detection;From+TCP+sockets+to+smart+contracts;Building+at+the+intersection+of+systems+%26+DeFi" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-prajapati-12099128a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra2612/)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xRudraSol)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudraprajapati2612@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230f0f0f.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rudraprajapati.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230f0f0f.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rudra2612.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudraprajapati2612)
 
 </div>
